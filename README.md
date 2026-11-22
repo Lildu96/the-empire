@@ -74,11 +74,7 @@ Existing infrastructure will remain operational during preparation, with changes
 
 ## 🔒 Security
 
-This is a private infrastructure repository.
-
-Sensitive information, including passwords, private keys, authentication tokens, and environment secrets, must never be committed.
-
-Configuration examples should use placeholders where appropriate.
+This repository publicly documents the Empire's architecture, projects and technical development. Sensitive configuration details, credentials and operational information are maintained separately.
 
 ---
 
